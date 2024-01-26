@@ -1,0 +1,6 @@
+[submodule "Mininet_Simulator"]
+	path = Mininet_Simulator
+	url = https://github.com/Al3x4ndru1/Mininet_Simulator.git
+[submodule "Network_Simulator_Controller"]
+	path = Network_Simulator_Controller
+	url = https://github.com/Al3x4ndru1/Network_Simulator_Controller.git
