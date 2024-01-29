@@ -141,6 +141,6 @@ The figure above (Stop Request) illustrates the HTTP request sent to the Network
 
 <center><figure><img src="figs/Database.png" alt="Database.png"><figcaption>Database</figcaption></figure></center>
 
-
+The figure above (Database) showcases the administrator page of the connected database, utilized for logging errors and various other purposes.
 
 --------------------------------
